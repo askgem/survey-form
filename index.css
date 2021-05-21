@@ -1,0 +1,11 @@
+#survey-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-item{
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 15px;
+}
